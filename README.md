@@ -1,5 +1,7 @@
 # Computerized Cognitive Retraining for Children with Disability
 
+**Type:** Mobile UI/UX Design (Prototype)  
+
 **Description:**  
 Mobile app for early detection & cognitive skill enhancement in children (6–12) with cognitive disabilities. Supports early intervention through engaging, scientifically designed training activities.
 
